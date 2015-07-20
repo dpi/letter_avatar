@@ -1,8 +1,8 @@
 {
-  "name": "drupal/ak_letter",
+  "name": "drupal/letter_avatar",
   "description": "Integration with Letter Avatar generator",
   "type": "drupal-module",
-  "homepage": "http://drupal.org/dpi/ak_letter",
+  "homepage": "http://drupal.org/project/letter_avatar",
   "authors": [
     {
       "name": "Daniel Phin",
