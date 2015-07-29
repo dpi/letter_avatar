@@ -1,7 +1,7 @@
 name: Letter Avatar
 type: module
 description: 'Adds a letter based on a users profile.'
-package: AK
+package: Avatars
 core: 8.x
 dependencies:
   - composer_manager

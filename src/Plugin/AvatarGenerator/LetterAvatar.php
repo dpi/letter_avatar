@@ -2,12 +2,12 @@
 
 /**
  * @file
- * Contains \Drupal\ak_letter\Plugin\AvatarGenerator\LetterAvatar.
+ * Contains \Drupal\letter_avatar\Plugin\AvatarGenerator\LetterAvatar.
  */
 
-namespace Drupal\ak_letter\Plugin\AvatarGenerator;
+namespace Drupal\letter_avatar\Plugin\AvatarGenerator;
 
-use Drupal\ak\Plugin\AvatarGenerator\AvatarGeneratorBase;
+use Drupal\avatars\Plugin\AvatarGenerator\AvatarGeneratorBase;
 use Drupal\Core\Session\AccountInterface;
 use LetterAvatar\LetterAvatar as LetterAvatarAPI;
 use Drupal\file\Entity\File;
