@@ -1,6 +1,6 @@
 Provides Letter Avatar integration with Avatar Kit
 
-Copyright (C) 2015 Daniel Phin (@dpi)
+Copyright (C) 2016 Daniel Phin (@dpi)
 
 # License
 
@@ -21,17 +21,10 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 # Installation
 
  1. Enable this module in Drupal
- 2. Run `composer drupal-update` from the core/ directory.
+ 2. Run `composer update` from the
 
 ## Troubleshooting
 
 ### Composer 
 
 See _Composer Manager for Drupal 8_: https://www.drupal.org/node/2405811
-
- * `composer: command not found`
-   If your terminal complains that it is unaware of the `composer` command, you
-   must install Composer: https://getcomposer.org/download/
- * `Command "drupal-update" is not defined.`
-   If you get this error, run `drush composer-manager-init` in your Drupal
-   directory.
