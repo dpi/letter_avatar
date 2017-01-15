@@ -4,5 +4,4 @@ description: 'Adds a letter avatar generator based on the name of a user.'
 package: Avatars
 core: 8.x
 dependencies:
-  - composer_manager
   - avatars

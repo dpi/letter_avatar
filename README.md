@@ -20,11 +20,6 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 
 # Installation
 
- 1. Enable this module in Drupal
- 2. Run `composer update` from the
-
-## Troubleshooting
-
-### Composer 
-
-See _Composer Manager for Drupal 8_: https://www.drupal.org/node/2405811
+ 1. Download the module to your Drupal site.
+ 2. Update Composer dependencies for your site.
+ 3. Enable the module.
